@@ -4,6 +4,7 @@
   "homepage": "https://github.com/ekweible/svg.draggable.js",
   "private": true,
   "ignore": [
-    "README.md"
+    ".*",
+    "*.md"
   ]
 }
