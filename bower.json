@@ -1,0 +1,9 @@
+{
+  "name": "svg.draggable.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/ekweible/svg.draggable.js",
+  "private": true,
+  "ignore": [
+    "README.md"
+  ]
+}
