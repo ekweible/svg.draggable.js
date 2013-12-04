@@ -103,7 +103,7 @@ SVG.extend(SVG.Element, {
           y = constraint.maxY - height
         
         /* move the element to its new position */
-        element.move(x, y)
+//        element.move(x, y)
 
         /* invoke any callbacks */
         if (element.dragmove)
